@@ -1,0 +1,6 @@
+- Activity : FullStack-Coding and Project-Management
+- Profile : [LinkedIn](https://www.linkedin.com/in/dmikes)
+- Research : [ResearchGate](https://www.researchgate.net/profile/Daniel-Mikes)
+- Flask : [Raspi](https://dmikes.hopto.org)
+- React : [GitHub](https://danmikes.github.io/react)
+- Svelte : [GitHub](https://danmikes.github.io/svelte)
