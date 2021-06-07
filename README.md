@@ -1,0 +1,7 @@
+- Activity : FullStack-Coding and Project-Management
+- Consult : [Svelte](https://danmikes.github.io/svelte)
+- Portfolio : [React](https://danmikes.github.io/react)
+- Profile : [LinkedIn](https://www.linkedin.com/in/dmikes)
+- Research : [ResearchGate](https://www.researchgate.net/profile/Daniel-Mikes)
+- SamSim : [Flask](https://dmikes.duckdns.org)
+- Wish : [Flask](https://dmikes.eu.pythonanywhere.com)
