@@ -3,7 +3,7 @@ Name: Daniel Mikes
 - Learning: JavaScript, ReactJS
 - Goal: FullStack development
 - Interest: Coding, Math, Running
-- Contact: LinkedIn
+- Contact: [LinkedIn](https://www.linkedin.com/in/dmikes/)
 
 <!---
 danmikes/danmikes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
