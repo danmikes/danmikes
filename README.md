@@ -1,5 +1,5 @@
 Name: Daniel Mikes
-- Expertise: Java, Spring
+- Expertise: Java, SpringBoot
 - Learning: JavaScript, ReactJS
 - Goal: FullStack development
 - Interest: Coding, Math, Running
