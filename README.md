@@ -1,9 +1,12 @@
 Name: Daniel Mikes
+- Activity: FullStack development
 - Expertise: Java, SpringBoot
+- Experience: SQL, NoSQL
 - Learning: JavaScript, ReactJS
-- Goal: FullStack development
-- Interest: Coding, Math, Running
-- Contact: [LinkedIn](https://www.linkedin.com/in/dmikes/)
+- Interest: Python, LinkedData
+- Hobbies: Coding, Running
+- Contact: [LinkedIn](https://www.linkedin.com/in/dmikes)
+- Research: [Scholar](https://www.researchgate.net/profile/daniel_mikes)
 
 <!---
 danmikes/danmikes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
