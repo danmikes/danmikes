@@ -3,7 +3,7 @@ Name: Daniel Mikes
 - Expertise: Java, SpringBoot
 - Experience: SQL, NoSQL
 - Learning: JavaScript, ReactJS
-- Interest: Python, LinkedData
+- Interest: Python, LinkedData, JamStack
 - Hobbies: Coding, Running
 - Contact: [LinkedIn](https://www.linkedin.com/in/dmikes)
 - Research: [ResearchGate](https://www.researchgate.net/profile/daniel-mikes)
