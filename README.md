@@ -3,10 +3,11 @@ Name: Daniel Mikes
 - Expertise: Java, SpringBoot
 - Experience: SQL, NoSQL
 - Learning: JavaScript, ReactJS
-- Interest: Python, LinkedData, JamStack
+- Interest: Python, JamStack
 - Hobbies: Coding, Running
 - Contact: [LinkedIn](https://www.linkedin.com/in/dmikes)
-- Research: [ResearchGate](https://www.researchgate.net/profile/daniel-mikes)
+- Portfolio: [GitHub](https://danmikes.github.io/portfolio)
+- Research: [ResearchGate](https://www.researchgate.net/profile/Daniel-Mikes)
 
 <!---
 danmikes/danmikes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
