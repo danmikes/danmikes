@@ -1,9 +1,9 @@
 Name: Daniel Mikes
 - Activity: FullStack development
-- Expertise: Java, SpringBoot
-- Learning: JavaScript, ReactJS
-- Interest: Python, JamStack
-- Experience: SQL, NoSQL
+- Backend: Java, SpringBoot
+- Database: PostgreSql, MongoDB
+- Frontend: JavaScript, ReactJS
+- Mobile: ReactNative
 - Hobbies: Coding, Running
 - Contact: [LinkedIn](https://www.linkedin.com/in/dmikes)
 - Portfolio: [GitHub](https://danmikes.github.io/portfolio)
