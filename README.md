@@ -3,7 +3,7 @@ Name: Daniel Mikes
 - Backend: Java, SpringBoot
 - Database: PostgreSql, MongoDB
 - Frontend: JavaScript, ReactJS
-- Mobile: ReactNative
+- Mobile: ReactNative, Expo
 - Hobbies: Coding, Running
 - Contact: [LinkedIn](https://www.linkedin.com/in/dmikes)
 - Portfolio: [GitHub](https://danmikes.github.io/portfolio)
