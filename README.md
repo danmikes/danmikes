@@ -1,5 +1,6 @@
 Name: Daniel Mikes
 - Activity: FullStack development
+- Fullstack: Angular/SpringBoot/PostgreSQL, React/Express/MongoDB
 - Backend: Java, SpringBoot
 - Database: PostgreSql, MongoDB
 - Frontend: JavaScript, ReactJS
