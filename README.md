@@ -5,7 +5,7 @@ Name: Daniel Mikes
 - Database: PostgreSql, MongoDB
 - Frontend: JavaScript, ReactJS
 - Mobile: ReactNative, Expo
-- Interest: Artificial Intelligence, Cryptography
+- Interest: Artificial Intelligence, Security
 - Contact: [LinkedIn](https://www.linkedin.com/in/dmikes)
 - Portfolio: [GitHub](https://danmikes.github.io/portfolio)
 - Research: [ResearchGate](https://www.researchgate.net/profile/Daniel-Mikes)
