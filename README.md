@@ -6,9 +6,10 @@ Name: Daniel Mikes
 - Frontend: JavaScript, ReactJS
 - Mobile: ReactNative, Expo
 - Interest: Artificial Intelligence, Security
-- Contact: [LinkedIn](https://www.linkedin.com/in/dmikes)
+- Coding: [freeCodeCamp](https://www.freecodecamp.org/dmikes)
 - Portfolio: [GitHub](https://danmikes.github.io/portfolio)
 - Research: [ResearchGate](https://www.researchgate.net/profile/Daniel-Mikes)
+- Resume: [LinkedIn](https://www.linkedin.com/in/dmikes)
 
 <!---
 danmikes/danmikes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
