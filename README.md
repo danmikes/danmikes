@@ -1,12 +1,10 @@
 Name: Daniel Mikes
+
 - Activity: FullStack development
-- Fullstack: Angular/SpringBoot/PostgreSQL, React/Express/MongoDB
-- Backend: Java, SpringBoot
-- Database: PostgreSql, MongoDB
-- Frontend: JavaScript, ReactJS
-- Mobile: ReactNative, Expo
-- Interest: Artificial Intelligence, Security
-- Coding: [freeCodeCamp](https://www.freecodecamp.org/dmikes)
+- Java-stack: Java/Angular/SpringBoot/PostgreSQL/Docker/GitLab/Kubernetes
+- Ecma-stack: JavaScript/React/Express/MongoDB/NodeJS/GitHub/Heroku
+- Python-stack: Python/MachineLearning/LinkedData/Cloud
+- Study: [freeCodeCamp](https://www.freecodecamp.org/dmikes)
 - Portfolio: [GitHub](https://danmikes.github.io/portfolio)
 - Research: [ResearchGate](https://www.researchgate.net/profile/Daniel-Mikes)
 - Resume: [LinkedIn](https://www.linkedin.com/in/dmikes)
