@@ -2,8 +2,8 @@ Name: Daniel Mikes
 
 - Activity: FullStack development
 - Java-stack: Java/Angular/SpringBoot/MySQL/Docker/BitBucket/GitLab/AWS
-- Ecma-stack: JavaScript/React/Express/MongoDB/NodeJS/GitHub/Heroku
-- Python-stack: Python/Jupyter
+- Ecma-stack: Docker/JavaScript/React/Express/MongoDB/NodeJS/GitHub/Heroku
+- Python-stack: Docker/Flask/GitHub/Wsgi/Nginx/Python/PythonAnywhere/Raspi
 - Hubs: CodePen/CodeSandbox/CoLab/GitHub/GitLab/Glitch/Replit
 - Study: [freeCodeCamp](https://www.freecodecamp.org/dmikes)
 - Portfolio: [GitHub](https://danmikes.github.io/portfolio)
