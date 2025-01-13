@@ -1,14 +1,13 @@
 Name: Daniel Mikes
 
 - Activity: FullStack
-- Java-stack: Java/Angular/SpringBoot/SQL/Docker/BitBucket/GitLab/AWS
-- Ecma-stack: Docker/JavaScript/React/Express/Mongo/Node/GitHub/Heroku
+- Java-stack: AWS/Angular/BitBucket/Docker/GitLab/Java/SpringBoot/SQL
+- Ecma-stack: Docker/Express/GitHub/Heroku/JavaScript/Mongo/Node
 - Python-stack: Docker/Flask/GitHub/Gunicorn/Traefik/Python/Raspi
 - Hubs: CodePen/CodeSandbox/CoLab/GitHub/GitLab/Glitch/Replit
-- Study: [freeCodeCamp](https://www.freecodecamp.org/dmikes)
 - Portfolio: [GitHub](https://danmikes.github.io/portfolio)
+- Profile: [LinkedIn](https://www.linkedin.com/in/dmikes)
 - Research: [ResearchGate](https://www.researchgate.net/profile/Daniel-Mikes)
-- Resume: [LinkedIn](https://www.linkedin.com/in/dmikes)
 
 <!---
 danmikes/danmikes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
