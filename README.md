@@ -1,6 +1,6 @@
 Name: Daniel Mikes
 
-- Activity: FullStack Project Creation Solo
+- Activity: FullStack
 - Java-stack: AWS/Angular/BitBucket/Docker/GitLab/Java/SpringBoot/SQL
 - Ecma-stack: Docker/Express/GitHub/Heroku/JavaScript/Mongo/Node
 - Python-stack: Docker/Flask/GitHub/Gunicorn/Traefik/Python/Raspi
