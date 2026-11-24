@@ -1,6 +1,6 @@
 <div align="center">
 
-## **Public Project**
+## **Public**
 
 | Site | Concept | Stack | Code | Host | Monitor |
 |:----:|:-------:|:-----:|:----:| :--: | :-----: |
@@ -10,7 +10,7 @@
 | **[SamSim](https://dmikes.duckdns.org)** | [Simulation](https://www.researchgate.net/publication/375560659_Sensitivity_of_shoreline-trajectory_to_deposition-events) | Flask | [samsim](https://github.com/danmikes/samsim) | RasPi | [UptimeRobot](https://uptimerobot.com) |
 | **[Wish](https://dmikes.eu.pythonanywhere.com)** | Wish-list | Flask | [wish](https://github.com/danmikes/wish) | PyAny | [UptimeRobot](https://uptimerobot.com) |
 
-## **Private Project**
+## **Private**
 
 | Site | Concept | Stack | Code | Platform |
 |:----:|:-------:|:-----:|:----:| :------: |
@@ -20,7 +20,7 @@
 | **Sync** | Install | Shell | [sync](https://github.com/danmikes/sync) | Mac |
 | **Tube** | Burn | Shell | [tube](https://github.com/danmikes/tube) | Linux |
 
-## **Corporate Project**
+## **Corporate**
 | Site | Concept | Stack | Code | Platform |
 |:----:|:-------:|:-----:|:----:| :------: |
 | **Offer** | Flow | Python | [offer](https://github.com/ta-survey/offer) | Win |
