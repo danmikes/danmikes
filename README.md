@@ -14,7 +14,6 @@
 
 | Site | Concept | Stack | Code | Platform |
 |:----:|:-------:|:-----:|:----:| :------: |
-| **CC** | Code | C++ | [cc](https://github.com/danmikes/cc) | GitHub |
 | **CF** | [CodeForces](https://codeforces.com) | C++ | [cf](https://github.com/danmikes/cf) | Web |
 | **Cv** | [Resume](https://www.linkedin.com/in/dmikes/overlay/1769284661352/single-media-viewer/?profileId=ACoAAAF0RGcBk4G65GVUY9IE5jblCn6DBSwEp_M) | LateX | [cv](https://github.com/danmikes/cv) | Web |
 | **Sync** | Install | Shell | [sync](https://github.com/danmikes/sync) | Mac |
